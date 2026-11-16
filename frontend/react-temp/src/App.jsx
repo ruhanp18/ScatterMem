@@ -4,7 +4,7 @@ import "./App.css";
 import NexusMap from "./NexusMap";
 import MemoryPulse from "./MemoryPulse";
 
-const API = "https://scattermem-api-xxxx.onrender.com";
+const API = "https://scattermem-a8b2.onrender.com";
 
 function ScatterMark() {
   return (
